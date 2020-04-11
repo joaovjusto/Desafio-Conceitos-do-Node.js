@@ -4,7 +4,7 @@
 
 - API Rest para manter repositórios;
 
-- [Desafio](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs)
+- [Desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 
 ### Ferramentas utilizadas:
 
